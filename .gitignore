@@ -1,0 +1,10 @@
+# Compilação C
+*.o
+*.out
+*.exe
+a.out
+
+# Temporários de editor
+*~
+*.swp
+*.swo
